@@ -28,7 +28,7 @@
 			</div>
 			<div id="logo" style="display:inline;float:left;">
 				<?php echo $this->Html->link(
-				    $this->Html->image("stackoverflow-logo.png", array("alt" => "Stack Overflow")),
+				    $this->Html->image("logo.gif", array("alt" => "OpenQ-Cake")),
 				    "/",
 				    array('escape'=>false)
 				);
