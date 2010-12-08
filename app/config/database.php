@@ -77,8 +77,8 @@ class DATABASE_CONFIG {
 		'driver' => 'mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'shishir',
-		'password' => 'h.sopan',
+		'login' => 'cakeuser',
+		'password' => 'cakepwd',
 		'database' => 'answers',
 		'prefix' => '',
 	);
