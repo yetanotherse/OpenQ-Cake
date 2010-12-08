@@ -18,3 +18,14 @@ To summarize, below is a brief list of features available as of now (not all may
 As mentioned above, the most of the base work is done and the script is not ready for production use by any means. For example, though voting is available but there is no check for stopping user from voting multiple times on same question/answer. 
 
 We will try to continue working on the project. You are free to use the code.
+
+
+INSTALLATION
+============
+
+There is no auto installer as of now. Use the steps below to install.
+
+- Import db.sql present in home directory of project to your database.
+- Update DB credentials in app/config/database.php
+- Update facebook api/appid/secret in app/config/facebook.php
+- Upload files to server and that should be it.
