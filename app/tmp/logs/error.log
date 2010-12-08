@@ -1,0 +1,1480 @@
+2010-06-29 18:46:11 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 1
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-06-29 18:46:11 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-06-29 18:46:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-06-29 18:48:06 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 1
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-06-29 18:48:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-06-29 18:49:04 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 1
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-06-29 18:49:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-06-29 18:50:12 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 2
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-06-29 18:50:12 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-06-29 18:52:09 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 3
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-06-29 18:52:09 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-06-29 19:31:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 5
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => catchshishir@gmail.com
+            [level] => 
+            [created] => 2010-06-29 18:52:55
+            [modified] => 2010-06-29 19:01:08
+            [group_id] => 4
+        )
+
+)
+
+Aco: controllers/Users/initDB in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-07-01 16:44:15 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1066: Not unique table/alias: 'ParentCategory'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-01 17:44:53 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Tag.tag_id' in 'field list'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-01 17:44:53 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 1083]
+2010-07-05 17:15:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1052: Column 'id' in where clause is ambiguous</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-05 18:45:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Tag.tag_id' in 'field list'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-05 18:45:59 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 1083]
+2010-07-05 18:47:09 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Tag.tag_id' in 'field list'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-05 18:47:09 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 1083]
+2010-07-05 18:49:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Tag.user_id' in 'field list'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-05 18:49:05 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 1083]
+2010-07-05 18:49:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Tag.user_id' in 'field list'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-05 18:49:11 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 1083]
+2010-07-14 18:19:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Question.question_id' in 'on clause'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-07-14 18:19:27 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 15]
+2010-10-26 13:30:40 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:30:40 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:30:40 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:30:51 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:30:51 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:30:51 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:32:45 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:32:45 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:32:45 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:35:43 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:35:43 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:35:43 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:35:48 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:35:48 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:35:49 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:35:53 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:35:53 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:35:53 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:36:13 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:36:13 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:36:13 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:36:29 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:36:29 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:36:29 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:36:40 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:36:40 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:36:40 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:36:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 13:37:16 Warning: Warning (2): Illegal offset type in isset or empty in [/home/shishir/public_html/answers/cake/libs/router.php, line 263]
+2010-10-26 13:37:16 Warning: Warning (2): Illegal offset type in [/home/shishir/public_html/answers/cake/libs/router.php, line 592]
+2010-10-26 13:37:16 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: Can only flip STRING and INTEGER values! in [/home/shishir/public_html/answers/cake/libs/router.php, line 270]
+2010-10-26 13:37:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 15:15:47 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/manage_index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 15:17:59 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/manage_index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 15:25:49 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/manage_login in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 15:48:33 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/manage_login in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:06:19 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 4
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:06:19 Warning: Warning (512): DbAcl::allow() - Invalid node in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 361]
+2010-10-26 17:06:19 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 5
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:06:19 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => Group
+    [Aro0.foreign_key] => 6
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:15:00 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:15:00 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/logout in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:15:00 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:16:03 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:16:03 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Questions/edit in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:16:03 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:17:43 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:17:43 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Answers/add in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:17:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:18:00 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:18:01 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:18:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:18:06 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:18:06 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:18:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:18:42 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:18:43 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:18:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:18:44 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:18:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:18:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:23:03 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:23:03 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:23:03 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:23:08 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:23:08 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/logout in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:23:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:24:30 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:24:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Activities/add in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:24:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:11 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:11 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:13 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:13 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:14 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:15 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:16 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:16 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:16 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:16 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:19 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:19 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:26:31 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:26:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Watchlists/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:26:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-10-26 17:30:05 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 11
+)
+" in [/home/shishir/public_html/answers/cake/libs/model/db_acl.php, line 191]
+2010-10-26 17:30:05 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 11
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-07-05 19:01:53
+            [modified] => 2010-10-26 13:37:16
+            [group_id] => 7
+            [about] => This is me!!
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Users/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-10-26 17:30:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-01 16:06:25 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Questions/unresolved in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-01 16:06:32 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Questions/unresolved in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-01 16:06:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Questions/unresolved in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-01 16:17:44 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/unresolved.ctp, line 15]
+2010-11-01 16:34:57 Warning: Warning (2): array_combine() [<a href='http://php.net/function.array-combine'>function.array-combine</a>]: Both parameters should have an equal number of elements in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 764]
+2010-11-01 16:34:57 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 771]
+2010-11-01 16:34:57 Warning: Warning (2): extract() [<a href='http://php.net/function.extract'>function.extract</a>]: First argument should be an array in [/home/shishir/public_html/answers/cake/libs/view/view.php, line 719]
+2010-11-01 16:34:57 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/unresolved.ctp, line 15]
+2010-11-01 16:34:57 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [/home/shishir/public_html/answers/cake/libs/view/view.php, line 468]
+2010-11-01 16:34:57 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [/home/shishir/public_html/answers/cake/libs/view/view.php, line 385]
+2010-11-15 17:14:10 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:10 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:10 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:10 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:11 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:24 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:24 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:24 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:25 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:26 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:26 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:26 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:26 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:26 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:26 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:29 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:30 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:30 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:30 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:30 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:31 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:31 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:14:32 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:14:32 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:14:32 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:14:32 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:14:32 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:15:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:15:06 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:15:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:15:07 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:15:07 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:15:07 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:15:07 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:15:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:15:27 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:15:27 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:15:27 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:15:27 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:15:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:15:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:15:28 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:15:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:18:55 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:18:55 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:18:55 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:18:55 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:18:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:18:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-15 17:18:56 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-15 17:18:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:37:01 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:37:01 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:37:01 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:37:01 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:37:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:37:02 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:37:02 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:37:02 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:21 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:22 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:23 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:24 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:24 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:25 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:26 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:27 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:27 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:27 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:28 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_connect() [<a href='http://php.net/function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'shishir'@'localhost' (using password: YES) in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 540]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_select_db(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 546]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_get_server_info(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 554]
+2010-11-23 15:38:29 Warning: Warning (2): mysql_query(): supplied argument is not a valid MySQL-Link resource in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo/dbo_mysql.php, line 588]
+2010-11-23 15:38:29 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-11-24 17:54:56 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-24 17:56:59 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-24 17:57:05 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-24 17:57:10 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-24 17:57:51 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-24 17:57:54 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-24 17:57:56 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsTags/tagsearch in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-26 15:30:46 Warning: Warning (2): Wrong parameter count for link() in [/home/shishir/public_html/answers/app/views/elements/mainmenu.ctp, line 2]
+2010-11-26 15:30:46 Warning: Warning (2): Wrong parameter count for link() in [/home/shishir/public_html/answers/app/views/elements/mainmenu.ctp, line 3]
+2010-11-26 15:30:46 Warning: Warning (2): Wrong parameter count for link() in [/home/shishir/public_html/answers/app/views/elements/mainmenu.ctp, line 4]
+2010-11-26 15:30:46 Warning: Warning (2): Wrong parameter count for link() in [/home/shishir/public_html/answers/app/views/elements/mainmenu.ctp, line 6]
+2010-11-26 15:30:46 Warning: Warning (2): Wrong parameter count for link() in [/home/shishir/public_html/answers/app/views/elements/mainmenu.ctp, line 9]
+2010-11-26 16:01:10 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/controllers/tags_controller.php, line 8]
+2010-11-26 16:07:30 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/controllers/tags_controller.php, line 8]
+2010-11-26 16:10:07 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/tags/index.ctp, line 5]
+2010-11-27 11:25:18 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/Questions/ask in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-27 11:25:19 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:25:24 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:25:45 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:27:09 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:27:30 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:28:11 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:28:13 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:30:16 Warning: Warning (4096): Object of class FacebookHelper could not be converted to string in [/home/shishir/public_html/answers/app/views/elements/topmenu.ctp, line 5]
+2010-11-27 11:31:22 Warning: Warning (512): Method FacebookHelper::getUser does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-11-27 11:47:22 Warning: Warning (4096): Object of class FacebookHelper could not be converted to string in [/home/shishir/public_html/answers/app/views/elements/topmenu.ctp, line 5]
+2010-11-27 13:01:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'contain' in 'where clause'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-11-27 13:01:50 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 5]
+2010-11-27 13:01:50 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 41]
+2010-11-27 13:03:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'contain' in 'where clause'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-11-27 13:03:14 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 5]
+2010-11-27 13:03:14 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 41]
+2010-11-27 13:03:16 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'contain' in 'where clause'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-11-27 13:03:16 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 5]
+2010-11-27 13:03:16 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 41]
+2010-11-27 13:05:30 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'contain' in 'where clause'</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-11-27 13:05:30 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 5]
+2010-11-27 13:05:30 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 41]
+2010-11-27 16:28:49 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== `User`.`id` AND `Question`.`user_id` = `User`.`id`) LEFT JOIN `categories` AS' at line 1</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-11-27 16:28:49 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 6]
+2010-11-27 16:28:49 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 53]
+2010-11-29 11:02:21 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-29 11:21:48 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-29 11:22:10 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-29 11:22:31 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-29 11:23:12 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-29 11:23:14 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-29 11:23:22 Warning: Warning (512): JsHelper:: Missing Method autoComplete is undefined in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 154]
+2010-11-30 15:46:36 Warning: Warning (2): ereg() [<a href='http://php.net/function.ereg'>function.ereg</a>]: REG_BADRPT in [/home/shishir/public_html/answers/app/views/helpers/menu.php, line 22]
+2010-11-30 15:49:09 Warning: Warning (2): ereg() [<a href='http://php.net/function.ereg'>function.ereg</a>]: REG_BADRPT in [/home/shishir/public_html/answers/app/views/helpers/menu.php, line 22]
+2010-11-30 16:45:28 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsVotes/index in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-11-30 17:01:07 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsVotes/add in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-12-02 15:21:46 Warning: Warning (512): Method FormHelper::image does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-02 18:06:15 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/helpers/qhelper.php, line 9]
+2010-12-03 15:52:04 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 22]
+2010-12-03 15:53:48 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = ('Question.created')' at line 1</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-03 15:53:48 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = ('Question.created') AND `I18n__title`.`locale` = 'en_us' AND `I18n__con' at line 1</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-03 15:53:48 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/index.ctp, line 22]
+2010-12-03 15:57:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = ('Question.created')' at line 1</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-03 15:57:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order = ('Question.created') AND `I18n__title`.`locale` = 'en_us' AND `I18n__con' at line 1</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-03 15:57:37 Warning: Warning (2): Invalid argument supplied for foreach() in [/home/shishir/public_html/answers/app/views/questions/unresolved.ctp, line 22]
+2010-12-03 19:15:43 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsVotes/up in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-12-03 19:16:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsVotes/down in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-12-03 19:16:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsVotes/down in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-12-03 19:16:42 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsVotes/up in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-12-04 12:08:47 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'question_id' cannot be null</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-04 12:11:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'question_id' cannot be null</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-04 12:14:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'question_id' cannot be null</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-04 12:16:57 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'question_id' cannot be null</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-04 12:42:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'question_id' cannot be null</span> in [/home/shishir/public_html/answers/cake/libs/model/datasources/dbo_source.php, line 673]
+2010-12-04 17:10:29 Warning: Warning (512): Method QhelperHelper::current_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:22:10 Warning: Warning (512): Method QhelperHelper::current_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:24:13 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:25:37 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:25:42 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:27:15 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:27:20 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:27:25 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:42 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:44 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:45 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:45 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:45 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:46 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:46 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:47 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:47 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:29:48 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:33:16 Warning: Warning (512): Method QhelperHelper::count_votes does not exist in [/home/shishir/public_html/answers/cake/libs/view/helper.php, line 154]
+2010-12-04 17:57:57 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/AnswersVotes/up in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]
+2010-12-06 14:58:29 Warning: Warning (2): array_keys() [<a href='http://php.net/function.array-keys'>function.array-keys</a>]: The first argument should be an array in [/home/shishir/public_html/answers/cake/libs/view/helpers/jquery_engine.php, line 128]
+2010-12-06 14:58:29 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [/home/shishir/public_html/answers/cake/libs/view/helpers/jquery_engine.php, line 130]
+2010-12-06 14:58:29 Warning: Warning (2): array_flip() [<a href='http://php.net/function.array-flip'>function.array-flip</a>]: The argument should be an array in [/home/shishir/public_html/answers/cake/libs/view/helpers/js.php, line 1022]
+2010-12-06 16:55:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-12-06 17:04:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/shishir/public_html/answers/cake/libs/debugger.php:673) in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 746]
+2010-12-07 10:23:55 Warning: Warning (512): Controller::paginate() - can't find model Tags in controller TagsController in [/home/shishir/public_html/answers/cake/libs/controller/controller.php, line 1104]
+2010-12-07 14:12:31 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 15
+            [username] => shishir
+            [firstname] => Shishir
+            [lastname] => Singh
+            [email] => shishir@sopantech.com
+            [level] => 1
+            [created] => 2010-10-26 16:28:09
+            [modified] => 2010-11-01 15:32:19
+            [group_id] => 10
+            [about] => 
+            [avatar] => 
+            [facebook_id] => 0
+            [locale] => en_us
+        )
+
+)
+
+Aco: controllers/QuestionsComments/add in [/home/shishir/public_html/answers/cake/libs/controller/components/acl.php, line 273]

@@ -1,0 +1,1323 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2010-10-27 17:16+0500\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /controllers/activities_controller.php:13;40;85;112
+msgid "Invalid activity"
+msgstr ""
+
+#: /controllers/activities_controller.php:23;45;95;117
+msgid "The activity has been saved"
+msgstr ""
+
+#: /controllers/activities_controller.php:26;48;98;120
+msgid "The activity could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/activities_controller.php:65;137
+msgid "Invalid id for activity"
+msgstr ""
+
+#: /controllers/activities_controller.php:69;141
+msgid "Activity deleted"
+msgstr ""
+
+#: /controllers/activities_controller.php:72;144
+msgid "Activity was not deleted"
+msgstr ""
+
+#: /controllers/answers_controller.php:13;36;82
+msgid "Invalid answer"
+msgstr ""
+
+#: /controllers/answers_controller.php:23;41;92
+msgid "The answer has been saved"
+msgstr ""
+
+#: /controllers/answers_controller.php:26;44;95
+msgid "The answer could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/answers_controller.php:57
+msgid "Invalid id for answer"
+msgstr ""
+
+#: /controllers/answers_controller.php:61
+msgid "Answer deleted"
+msgstr ""
+
+#: /controllers/answers_controller.php:64
+msgid "Answer was not deleted"
+msgstr ""
+
+#: /controllers/categories_controller.php:13;76
+msgid "Invalid category"
+msgstr ""
+
+#: /controllers/groups_controller.php:13;33;76;96
+msgid "Invalid group"
+msgstr ""
+
+#: /controllers/groups_controller.php:23;38;86;101
+msgid "The group has been saved"
+msgstr ""
+
+#: /controllers/groups_controller.php:26;41;89;104
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/groups_controller.php:51;114
+msgid "Invalid id for group"
+msgstr ""
+
+#: /controllers/groups_controller.php:55;118
+msgid "Group deleted"
+msgstr ""
+
+#: /controllers/groups_controller.php:58;121
+msgid "Group was not deleted"
+msgstr ""
+
+#: /controllers/questions_controller.php:13;42;95;124
+msgid "Invalid question"
+msgstr ""
+
+#: /controllers/questions_controller.php:23;47;105;129
+msgid "The question has been saved"
+msgstr ""
+
+#: /controllers/questions_controller.php:26;50;108;132
+msgid "The question could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/questions_controller.php:70;152
+msgid "Invalid id for question"
+msgstr ""
+
+#: /controllers/questions_controller.php:74;156
+msgid "Question deleted"
+msgstr ""
+
+#: /controllers/questions_controller.php:77;159
+msgid "Question was not deleted"
+msgstr ""
+
+#: /controllers/questions_tags_controller.php:13;36;77;100
+msgid "Invalid questions tag"
+msgstr ""
+
+#: /controllers/questions_tags_controller.php:23;41;87;105
+msgid "The questions tag has been saved"
+msgstr ""
+
+#: /controllers/questions_tags_controller.php:26;44;90;108
+msgid "The questions tag could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/questions_tags_controller.php:57;121
+msgid "Invalid id for questions tag"
+msgstr ""
+
+#: /controllers/questions_tags_controller.php:61;125
+msgid "Questions tag deleted"
+msgstr ""
+
+#: /controllers/questions_tags_controller.php:64;128
+msgid "Questions tag was not deleted"
+msgstr ""
+
+#: /controllers/tags_controller.php:13;35;80;102
+msgid "Invalid tag"
+msgstr ""
+
+#: /controllers/tags_controller.php:23;40;90;107
+msgid "The tag has been saved"
+msgstr ""
+
+#: /controllers/tags_controller.php:26;43;93;110
+msgid "The tag could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/tags_controller.php:55;122
+msgid "Invalid id for tag"
+msgstr ""
+
+#: /controllers/tags_controller.php:59;126
+msgid "Tag deleted"
+msgstr ""
+
+#: /controllers/tags_controller.php:62;129
+msgid "Tag was not deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:13;35;146;154
+msgid "Invalid user"
+msgstr ""
+
+#: /controllers/users_controller.php:23;41;160
+msgid "The user has been saved"
+msgstr ""
+
+#: /controllers/users_controller.php:26;44;163
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/users_controller.php:56;175
+msgid "Invalid id for user"
+msgstr ""
+
+#: /controllers/users_controller.php:60;179
+msgid "User deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:63;182
+msgid "User was not deleted"
+msgstr ""
+
+#: /controllers/users_tags_controller.php:13;36;77;100
+msgid "Invalid users tag"
+msgstr ""
+
+#: /controllers/users_tags_controller.php:23;41;87;105
+msgid "The users tag has been saved"
+msgstr ""
+
+#: /controllers/users_tags_controller.php:26;44;90;108
+msgid "The users tag could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/users_tags_controller.php:57;121
+msgid "Invalid id for users tag"
+msgstr ""
+
+#: /controllers/users_tags_controller.php:61;125
+msgid "Users tag deleted"
+msgstr ""
+
+#: /controllers/users_tags_controller.php:64;128
+msgid "Users tag was not deleted"
+msgstr ""
+
+#: /controllers/watchlists_controller.php:13;36;77;100
+msgid "Invalid watchlist"
+msgstr ""
+
+#: /controllers/watchlists_controller.php:23;41;87;105
+msgid "The watchlist has been saved"
+msgstr ""
+
+#: /controllers/watchlists_controller.php:26;44;90;108
+msgid "The watchlist could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/watchlists_controller.php:57;121
+msgid "Invalid id for watchlist"
+msgstr ""
+
+#: /controllers/watchlists_controller.php:61;125
+msgid "Watchlist deleted"
+msgstr ""
+
+#: /controllers/watchlists_controller.php:64;128
+msgid "Watchlist was not deleted"
+msgstr ""
+
+#: /plugins/spark_plug/controllers/user_group_permissions_controller.php:60
+msgid "Invalid id for user group permission."
+msgstr ""
+
+#: /plugins/spark_plug/controllers/user_group_permissions_controller.php:64
+msgid "User Group Permission deleted"
+msgstr ""
+
+#: /plugins/spark_plug/controllers/user_group_permissions_controller.php:67
+msgid "User Group Permission was not deleted"
+msgstr ""
+
+#: /plugins/spark_plug/views/elements/layout/header.ctp:5
+msgid "Login"
+msgstr ""
+
+#: /plugins/spark_plug/views/elements/layout/header.ctp:6
+#: /plugins/spark_plug/views/users/register.ctp:14
+#: /views/users/register.ctp:4;17
+msgid "Register"
+msgstr ""
+
+#: /plugins/spark_plug/views/elements/layout/header.ctp:9
+msgid "User Management"
+msgstr ""
+
+#: /plugins/spark_plug/views/elements/layout/header.ctp:17
+#: /plugins/spark_plug/views/elements/layout/logged_in_menu.default.ctp:6
+msgid "Home"
+msgstr ""
+
+#: /plugins/spark_plug/views/elements/layout/logged_in_menu.default.ctp:9
+#: /plugins/spark_plug/views/users/change_password.ctp:1
+#: /plugins/spark_plug/views/users/dashboard.ctp:11
+msgid "Change Password"
+msgstr ""
+
+#: /plugins/spark_plug/views/elements/layout/logged_in_menu.default.ctp:12
+msgid "Disconnect"
+msgstr ""
+
+#: /plugins/spark_plug/views/errors/unauthorized.ctp:1
+msgid "Unauthorized"
+msgstr ""
+
+#: /plugins/spark_plug/views/layouts/sparkwufoodefault.ctp:35
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/add.ctp:6
+msgid "Type here your Controller name, case insensitive"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/add.ctp:7
+msgid "Type here your Action name, case insensitive, and * for all Actions inside the Controller"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/add.ctp:9
+msgid "Leave Plugin field blank if not sure. This is used to set permissions inside your Plugins"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:3
+msgid "New User Group Permission"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:16
+#: /plugins/spark_plug/views/users/index.ctp:18
+#: /views/activities/index.ctp:11
+#: /views/activities/manage_edit.ctp:11
+#: /views/activities/manage_index.ctp:11
+#: /views/answers/index.ctp:12
+#: /views/answers/manage_index.ctp:52
+#: /views/answers/view.ctp:52
+#: /views/categories/manage_view.ctp:29
+#: /views/categories/view.ctp:29
+#: /views/groups/index.ctp:9
+#: /views/groups/manage_index.ctp:9
+#: /views/groups/manage_view.ctp:41
+#: /views/groups/view.ctp:41
+#: /views/questions/index.ctp:11
+#: /views/questions/manage_index.ctp:11
+#: /views/questions/manage_view.ctp:52;97;139;177
+#: /views/questions/view.ctp:52;97;139;177
+#: /views/questions_tags/index.ctp:8
+#: /views/questions_tags/manage_index.ctp:8
+#: /views/tags/index.ctp:8
+#: /views/tags/manage_index.ctp:8
+#: /views/tags/manage_view.ctp:32
+#: /views/tags/view.ctp:32
+#: /views/users/edit.ctp:21
+#: /views/users/index.ctp:17;65
+#: /views/users/manage_edit.ctp:21
+#: /views/users/manage_index.ctp:17;65
+#: /views/users/manage_view.ctp:67;96;141;186;227
+#: /views/users/view.ctp:67;96;141;186;227
+#: /views/users_tags/index.ctp:8
+#: /views/users_tags/manage_index.ctp:8
+#: /views/watchlists/index.ctp:8
+#: /views/watchlists/manage_index.ctp:8
+msgid "Actions"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:39
+#: /plugins/spark_plug/views/users/index.ctp:54
+#: /views/activities/index.ctp:36
+#: /views/activities/manage_edit.ctp:36
+#: /views/activities/manage_index.ctp:36
+#: /views/answers/index.ctp:36
+#: /views/answers/manage_index.ctp:71
+#: /views/answers/view.ctp:71
+#: /views/categories/manage_view.ctp:45
+#: /views/categories/view.ctp:45
+#: /views/groups/index.ctp:26
+#: /views/groups/manage_index.ctp:26
+#: /views/groups/manage_view.ctp:64
+#: /views/groups/view.ctp:64
+#: /views/questions/index.ctp:32
+#: /views/questions/manage_index.ctp:32
+#: /views/questions/manage_view.ctp:71;117;155;193
+#: /views/questions/view.ctp:71;117;155;193
+#: /views/questions_tags/index.ctp:28
+#: /views/questions_tags/manage_index.ctp:28
+#: /views/tags/index.ctp:24
+#: /views/tags/manage_index.ctp:24
+#: /views/tags/manage_view.ctp:51
+#: /views/tags/view.ctp:51
+#: /views/users/index.ctp:44
+#: /views/users/manage_index.ctp:44
+#: /views/users/manage_view.ctp:115;161;205;243
+#: /views/users/view.ctp:115;161;205;243
+#: /views/users_tags/index.ctp:28
+#: /views/users_tags/manage_index.ctp:28
+#: /views/watchlists/index.ctp:28
+#: /views/watchlists/manage_index.ctp:28
+msgid "Edit"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:40
+#: /plugins/spark_plug/views/users/index.ctp:55
+#: /views/activities/index.ctp:37
+#: /views/activities/manage_edit.ctp:37
+#: /views/activities/manage_index.ctp:37
+#: /views/answers/index.ctp:37
+#: /views/answers/manage_index.ctp:72
+#: /views/answers/view.ctp:72
+#: /views/categories/manage_view.ctp:46
+#: /views/categories/view.ctp:46
+#: /views/groups/index.ctp:27
+#: /views/groups/manage_index.ctp:27
+#: /views/groups/manage_view.ctp:65
+#: /views/groups/view.ctp:65
+#: /views/questions/index.ctp:33
+#: /views/questions/manage_index.ctp:33
+#: /views/questions/manage_view.ctp:72;118;156;194
+#: /views/questions/view.ctp:72;118;156;194
+#: /views/questions_tags/index.ctp:29
+#: /views/questions_tags/manage_index.ctp:29
+#: /views/tags/index.ctp:25
+#: /views/tags/manage_index.ctp:25
+#: /views/tags/manage_view.ctp:52
+#: /views/tags/view.ctp:52
+#: /views/users/edit.ctp:24
+#: /views/users/index.ctp:45
+#: /views/users/manage_edit.ctp:24
+#: /views/users/manage_index.ctp:45
+#: /views/users/manage_view.ctp:116;162;206;244
+#: /views/users/view.ctp:116;162;206;244
+#: /views/users_tags/index.ctp:29
+#: /views/users_tags/manage_index.ctp:29
+#: /views/watchlists/index.ctp:29
+#: /views/watchlists/manage_index.ctp:29
+msgid "Delete"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:40
+#: /plugins/spark_plug/views/users/index.ctp:55
+#: /views/activities/index.ctp:37
+#: /views/activities/manage_edit.ctp:37
+#: /views/activities/manage_index.ctp:37
+#: /views/answers/index.ctp:37
+#: /views/answers/manage_index.ctp:72
+#: /views/answers/view.ctp:72
+#: /views/categories/manage_view.ctp:46
+#: /views/categories/view.ctp:46
+#: /views/groups/index.ctp:27
+#: /views/groups/manage_index.ctp:27
+#: /views/groups/manage_view.ctp:65
+#: /views/groups/view.ctp:65
+#: /views/questions/index.ctp:33
+#: /views/questions/manage_index.ctp:33
+#: /views/questions/manage_view.ctp:72;118;156;194
+#: /views/questions/view.ctp:72;118;156;194
+#: /views/questions_tags/index.ctp:29
+#: /views/questions_tags/manage_index.ctp:29
+#: /views/tags/index.ctp:25
+#: /views/tags/manage_index.ctp:25
+#: /views/tags/manage_view.ctp:52
+#: /views/tags/view.ctp:52
+#: /views/users/edit.ctp:24
+#: /views/users/index.ctp:45
+#: /views/users/manage_edit.ctp:24
+#: /views/users/manage_index.ctp:45
+#: /views/users/manage_view.ctp:70;116;162;206;244
+#: /views/users/view.ctp:70;116;162;206;244
+#: /views/users_tags/index.ctp:29
+#: /views/users_tags/manage_index.ctp:29
+#: /views/watchlists/index.ctp:29
+#: /views/watchlists/manage_index.ctp:29
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:47
+#: /plugins/spark_plug/views/users/index.ctp:66
+#: /views/activities/index.ctp:50
+#: /views/activities/manage_edit.ctp:50
+#: /views/activities/manage_index.ctp:50
+#: /views/answers/index.ctp:50
+#: /views/groups/index.ctp:40
+#: /views/groups/manage_index.ctp:40
+#: /views/questions/index.ctp:46
+#: /views/questions/manage_index.ctp:46
+#: /views/questions_tags/index.ctp:42
+#: /views/questions_tags/manage_index.ctp:42
+#: /views/tags/index.ctp:38
+#: /views/tags/manage_index.ctp:38
+#: /views/users/index.ctp:58
+#: /views/users/manage_index.ctp:58
+#: /views/users_tags/index.ctp:42
+#: /views/users_tags/manage_index.ctp:42
+#: /views/watchlists/index.ctp:42
+#: /views/watchlists/manage_index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: /plugins/spark_plug/views/user_group_permissions/index.ctp:48
+#: /plugins/spark_plug/views/users/index.ctp:68
+#: /views/activities/index.ctp:53
+#: /views/activities/manage_edit.ctp:53
+#: /views/activities/manage_index.ctp:53
+#: /views/answers/index.ctp:53
+#: /views/groups/index.ctp:43
+#: /views/groups/manage_index.ctp:43
+#: /views/questions/index.ctp:49
+#: /views/questions/manage_index.ctp:49
+#: /views/questions_tags/index.ctp:45
+#: /views/questions_tags/manage_index.ctp:45
+#: /views/tags/index.ctp:41
+#: /views/tags/manage_index.ctp:41
+#: /views/users/index.ctp:61
+#: /views/users/manage_index.ctp:61
+#: /views/users_tags/index.ctp:45
+#: /views/users_tags/manage_index.ctp:45
+#: /views/watchlists/index.ctp:45
+#: /views/watchlists/manage_index.ctp:45
+msgid "next"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/activate_password.ctp:1
+msgid "Activate your password"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/activate_password.ctp:3
+#: /plugins/spark_plug/views/users/add.ctp:11
+#: /plugins/spark_plug/views/users/change_password.ctp:3
+#: /plugins/spark_plug/views/users/login.ctp:10
+#: /plugins/spark_plug/views/users/register.ctp:11
+msgid "password"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/activate_password.ctp:4
+#: /plugins/spark_plug/views/users/add.ctp:12
+#: /plugins/spark_plug/views/users/change_password.ctp:4
+#: /plugins/spark_plug/views/users/register.ctp:12
+msgid "confirm password"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/activate_password.ctp:7
+#: /plugins/spark_plug/views/users/forgot_password.ctp:12
+#: /plugins/spark_plug/views/users/login.ctp:14
+#: /views/activities/add.ctp:13
+#: /views/activities/edit.ctp:14
+#: /views/activities/manage_add.ctp:13
+#: /views/answers/add.ctp:14
+#: /views/answers/edit.ctp:15
+#: /views/answers/manage_add.ctp:14
+#: /views/answers/manage_edit.ctp:15
+#: /views/categories/add.ctp:10
+#: /views/categories/edit.ctp:11
+#: /views/categories/manage_add.ctp:10
+#: /views/categories/manage_edit.ctp:11
+#: /views/groups/add.ctp:9
+#: /views/groups/edit.ctp:10
+#: /views/groups/manage_add.ctp:9
+#: /views/groups/manage_edit.ctp:10
+#: /views/questions/add.ctp:13
+#: /views/questions/edit.ctp:14
+#: /views/questions/manage_add.ctp:13
+#: /views/questions/manage_edit.ctp:14
+#: /views/questions_tags/add.ctp:10
+#: /views/questions_tags/edit.ctp:11
+#: /views/questions_tags/manage_add.ctp:10
+#: /views/questions_tags/manage_edit.ctp:11
+#: /views/tags/add.ctp:11
+#: /views/tags/edit.ctp:12
+#: /views/tags/manage_add.ctp:11
+#: /views/tags/manage_edit.ctp:12
+#: /views/users/edit.ctp:18
+#: /views/users/manage_edit.ctp:18
+#: /views/users_tags/add.ctp:10
+#: /views/users_tags/edit.ctp:11
+#: /views/users_tags/manage_add.ctp:10
+#: /views/users_tags/manage_edit.ctp:11
+#: /views/watchlists/add.ctp:10
+#: /views/watchlists/edit.ctp:11
+#: /views/watchlists/manage_add.ctp:10
+#: /views/watchlists/manage_edit.ctp:11
+msgid "Submit"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/add.ctp:2
+msgid "User Add"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/add.ctp:8
+#: /plugins/spark_plug/views/users/login.ctp:9
+#: /plugins/spark_plug/views/users/register.ctp:8
+msgid "username"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/add.ctp:9
+#: /plugins/spark_plug/views/users/register.ctp:9
+#: /views/groups/manage_view.ctp:35
+#: /views/groups/view.ctp:35
+#: /views/users/manage_view.ctp:24
+#: /views/users/view.ctp:24
+msgid "Email"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/add.ctp:14
+msgid "Add"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/add.ctp:20
+msgid "Cancel and go back to users"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/dashboard.ctp:1
+msgid "Welcome"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/dashboard.ctp:2
+msgid "Please select below"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/dashboard.ctp:5
+msgid "Manage Users"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/dashboard.ctp:8
+msgid "Manage Permissions"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/dashboard.ctp:15
+msgid "Logout"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/forgot_password.ctp:1
+msgid "Password recovery"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/forgot_password.ctp:2
+msgid "Please enter the e-mail used during registration"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/index.ctp:1
+msgid "Back to dashboard"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/index.ctp:3
+#: /views/users/index.ctp:2
+#: /views/users/manage_index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/index.ctp:5;62
+msgid "Add new user"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/login.ctp:2
+msgid "Login your username and password"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/login.ctp:12
+msgid "Remember me for 2 weeks"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/login.ctp:18
+msgid "Not registered yet?"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/login.ctp:18
+msgid "Click Here"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/login.ctp:20
+msgid "Forgot your password?"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/register.ctp:2
+msgid "User Registration"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/register.ctp:18
+msgid "Already registered ?"
+msgstr ""
+
+#: /plugins/spark_plug/views/users/register.ctp:18
+msgid "Login Here"
+msgstr ""
+
+#: /views/activities/add.ctp:4
+#: /views/activities/manage_add.ctp:4
+msgid "Add Activity"
+msgstr ""
+
+#: /views/activities/edit.ctp:4
+msgid "Edit Activity"
+msgstr ""
+
+#: /views/activities/index.ctp:2
+#: /views/activities/manage_edit.ctp:2
+#: /views/activities/manage_index.ctp:2
+msgid "Activities"
+msgstr ""
+
+#: /views/activities/index.ctp:35
+#: /views/activities/manage_edit.ctp:35
+#: /views/activities/manage_index.ctp:35
+#: /views/answers/index.ctp:35
+#: /views/answers/manage_index.ctp:70
+#: /views/answers/view.ctp:70
+#: /views/categories/manage_view.ctp:44
+#: /views/categories/view.ctp:44
+#: /views/groups/index.ctp:25
+#: /views/groups/manage_index.ctp:25
+#: /views/groups/manage_view.ctp:63
+#: /views/groups/view.ctp:63
+#: /views/questions/index.ctp:31
+#: /views/questions/manage_index.ctp:31
+#: /views/questions/manage_view.ctp:70;116;154;192
+#: /views/questions/view.ctp:70;116;154;192
+#: /views/questions_tags/index.ctp:27
+#: /views/questions_tags/manage_index.ctp:27
+#: /views/tags/index.ctp:23
+#: /views/tags/manage_index.ctp:23
+#: /views/tags/manage_view.ctp:50
+#: /views/tags/view.ctp:50
+#: /views/users/index.ctp:43
+#: /views/users/manage_index.ctp:43
+#: /views/users/manage_view.ctp:114;160;204;242
+#: /views/users/view.ctp:114;160;204;242
+#: /views/users_tags/index.ctp:27
+#: /views/users_tags/manage_index.ctp:27
+#: /views/watchlists/index.ctp:27
+#: /views/watchlists/manage_index.ctp:27
+msgid "View"
+msgstr ""
+
+#: /views/activities/index.ctp:45
+#: /views/activities/manage_edit.ctp:45
+#: /views/activities/manage_index.ctp:45
+#: /views/answers/index.ctp:45
+#: /views/groups/index.ctp:35
+#: /views/groups/manage_index.ctp:35
+#: /views/questions/index.ctp:41
+#: /views/questions/manage_index.ctp:41
+#: /views/questions_tags/index.ctp:37
+#: /views/questions_tags/manage_index.ctp:37
+#: /views/tags/index.ctp:33
+#: /views/tags/manage_index.ctp:33
+#: /views/users/index.ctp:53
+#: /views/users/manage_index.ctp:53
+#: /views/users_tags/index.ctp:37
+#: /views/users_tags/manage_index.ctp:37
+#: /views/watchlists/index.ctp:37
+#: /views/watchlists/manage_index.ctp:37
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:2
+#: /views/activities/view.ctp:2
+msgid "Activity"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:4
+#: /views/activities/view.ctp:4
+#: /views/answers/manage_index.ctp:4;46
+#: /views/answers/view.ctp:4;46
+#: /views/categories/manage_view.ctp:4;26
+#: /views/categories/view.ctp:4;26
+#: /views/groups/manage_view.ctp:4;31
+#: /views/groups/view.ctp:4;31
+#: /views/questions/manage_view.ctp:4;46;90;136;174
+#: /views/questions/view.ctp:4;46;90;136;174
+#: /views/questions_tags/manage_view.ctp:4
+#: /views/questions_tags/view.ctp:4
+#: /views/tags/manage_view.ctp:4;26
+#: /views/tags/view.ctp:4;26
+#: /views/users/manage_view.ctp:4;90;134;180;224
+#: /views/users/view.ctp:4;90;134;180;224
+#: /views/users_tags/manage_view.ctp:4
+#: /views/users_tags/view.ctp:4
+#: /views/watchlists/manage_view.ctp:4
+#: /views/watchlists/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:9
+#: /views/activities/view.ctp:9
+#: /views/answers/manage_index.ctp:14
+#: /views/answers/view.ctp:14
+#: /views/questions/manage_view.ctp:2
+#: /views/questions/view.ctp:2
+#: /views/questions_tags/manage_view.ctp:9
+#: /views/questions_tags/view.ctp:9
+#: /views/watchlists/manage_view.ctp:9
+#: /views/watchlists/view.ctp:9
+msgid "Question"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:14
+#: /views/activities/view.ctp:14
+#: /views/answers/manage_index.ctp:2
+#: /views/answers/view.ctp:2
+msgid "Answer"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:19
+#: /views/activities/view.ctp:19
+#: /views/answers/manage_index.ctp:19
+#: /views/answers/view.ctp:19
+#: /views/questions/manage_view.ctp:19
+#: /views/questions/view.ctp:19
+#: /views/users/manage_view.ctp:2
+#: /views/users/view.ctp:2
+#: /views/users_tags/manage_view.ctp:14
+#: /views/users_tags/view.ctp:14
+#: /views/watchlists/manage_view.ctp:14
+#: /views/watchlists/view.ctp:14
+msgid "User"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:24
+#: /views/activities/view.ctp:24
+#: /views/answers/manage_index.ctp:50
+#: /views/answers/view.ctp:50
+#: /views/questions/manage_view.ctp:50
+#: /views/questions/view.ctp:50
+#: /views/users/manage_view.ctp:94
+#: /views/users/view.ctp:94
+msgid "Activity Type"
+msgstr ""
+
+#: /views/activities/manage_view.ctp:29
+#: /views/activities/view.ctp:29
+#: /views/answers/manage_index.ctp:24;51
+#: /views/answers/view.ctp:24;51
+#: /views/questions/manage_view.ctp:24;51;94
+#: /views/questions/view.ctp:24;51;94
+#: /views/tags/manage_view.ctp:30
+#: /views/tags/view.ctp:30
+#: /views/users/manage_view.ctp:95;138;184
+#: /views/users/view.ctp:95;138;184
+msgid "Date"
+msgstr ""
+
+#: /views/answers/add.ctp:4
+#: /views/answers/manage_add.ctp:4
+msgid "Add Answer"
+msgstr ""
+
+#: /views/answers/edit.ctp:4
+#: /views/answers/manage_edit.ctp:4
+msgid "Edit Answer"
+msgstr ""
+
+#: /views/answers/index.ctp:2
+msgid "Answers"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:9
+#: /views/answers/view.ctp:9
+#: /views/questions/manage_view.ctp:14;91
+#: /views/questions/view.ctp:14;91
+#: /views/tags/manage_view.ctp:28
+#: /views/tags/view.ctp:28
+#: /views/users/manage_view.ctp:135;182
+#: /views/users/view.ctp:135;182
+msgid "Content"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:29
+#: /views/answers/view.ctp:29
+#: /views/questions/manage_view.ctp:95
+#: /views/questions/view.ctp:95
+#: /views/users/manage_view.ctp:139
+#: /views/users/view.ctp:139
+msgid "Votes"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:34
+#: /views/answers/view.ctp:34
+#: /views/questions/manage_view.ctp:96
+#: /views/questions/view.ctp:96
+#: /views/users/manage_view.ctp:140
+#: /views/users/view.ctp:140
+msgid "Best Count"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:42
+#: /views/answers/view.ctp:42
+#: /views/questions/manage_view.ctp:42
+#: /views/questions/view.ctp:42
+#: /views/users/manage_view.ctp:86
+#: /views/users/view.ctp:86
+msgid "Related Activities"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:47
+#: /views/answers/view.ctp:47
+#: /views/questions/manage_view.ctp:47;92;137
+#: /views/questions/view.ctp:47;92;137
+#: /views/users/manage_view.ctp:91;136;225
+#: /views/users/view.ctp:91;136;225
+msgid "Question Id"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:48
+#: /views/answers/view.ctp:48
+#: /views/questions/manage_view.ctp:48
+#: /views/questions/view.ctp:48
+#: /views/users/manage_view.ctp:92
+#: /views/users/view.ctp:92
+msgid "Answer Id"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:49
+#: /views/answers/view.ctp:49
+#: /views/questions/manage_view.ctp:49;93;138
+#: /views/questions/view.ctp:49;93;138
+#: /views/tags/manage_view.ctp:29
+#: /views/tags/view.ctp:29
+#: /views/users/manage_view.ctp:93;137;183;226
+#: /views/users/view.ctp:93;137;183;226
+msgid "User Id"
+msgstr ""
+
+#: /views/answers/manage_index.ctp:81
+#: /views/answers/view.ctp:81
+#: /views/questions/manage_view.ctp:81
+#: /views/questions/view.ctp:81
+#: /views/users/edit.ctp:29
+#: /views/users/index.ctp:71
+#: /views/users/manage_edit.ctp:29
+#: /views/users/manage_index.ctp:71
+#: /views/users/manage_view.ctp:76;125
+#: /views/users/view.ctp:76;125
+msgid "New Activity"
+msgstr ""
+
+#: /views/categories/add.ctp:4
+#: /views/categories/manage_add.ctp:4
+msgid "Add Category"
+msgstr ""
+
+#: /views/categories/edit.ctp:4
+#: /views/categories/manage_edit.ctp:4
+msgid "Edit Category"
+msgstr ""
+
+#: /views/categories/manage_view.ctp:2
+#: /views/categories/view.ctp:2
+#: /views/questions/manage_view.ctp:34
+#: /views/questions/view.ctp:34
+msgid "Category"
+msgstr ""
+
+#: /views/categories/manage_view.ctp:9;27
+#: /views/categories/view.ctp:9;27
+#: /views/groups/manage_view.ctp:9
+#: /views/groups/view.ctp:9
+#: /views/questions/manage_view.ctp:175
+#: /views/questions/view.ctp:175
+#: /views/tags/manage_view.ctp:9
+#: /views/tags/view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: /views/categories/manage_view.ctp:14
+#: /views/categories/view.ctp:14
+msgid "Parent Category"
+msgstr ""
+
+#: /views/categories/manage_view.ctp:22
+#: /views/categories/view.ctp:22
+msgid "Related Categories"
+msgstr ""
+
+#: /views/categories/manage_view.ctp:28
+#: /views/categories/view.ctp:28
+msgid "Parent Id"
+msgstr ""
+
+#: /views/categories/manage_view.ctp:55
+#: /views/categories/view.ctp:55
+msgid "New Child Category"
+msgstr ""
+
+#: /views/groups/add.ctp:4
+#: /views/groups/manage_add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: /views/groups/edit.ctp:4
+#: /views/groups/manage_edit.ctp:4
+msgid "Edit Group"
+msgstr ""
+
+#: /views/groups/index.ctp:2
+#: /views/groups/manage_index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:2
+#: /views/groups/view.ctp:2
+#: /views/users/manage_view.ctp:49
+#: /views/users/view.ctp:49
+msgid "Group"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:14;38
+#: /views/groups/view.ctp:14;38
+#: /views/users/manage_view.ctp:39
+#: /views/users/view.ctp:39
+msgid "Created"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:19;39
+#: /views/groups/view.ctp:19;39
+#: /views/users/manage_view.ctp:44
+#: /views/users/view.ctp:44
+msgid "Modified"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:27
+#: /views/groups/view.ctp:27
+msgid "Related Users"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:32
+#: /views/groups/view.ctp:32
+#: /views/users/manage_view.ctp:9
+#: /views/users/view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:33
+#: /views/groups/view.ctp:33
+#: /views/users/manage_view.ctp:14
+#: /views/users/view.ctp:14
+msgid "Firstname"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:34
+#: /views/groups/view.ctp:34
+#: /views/users/manage_view.ctp:19
+#: /views/users/view.ctp:19
+msgid "Lastname"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:36
+#: /views/groups/view.ctp:36
+#: /views/users/manage_view.ctp:29
+#: /views/users/view.ctp:29
+msgid "Password"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:37
+#: /views/groups/view.ctp:37
+#: /views/users/manage_view.ctp:34
+#: /views/users/view.ctp:34
+msgid "Level"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:40
+#: /views/groups/view.ctp:40
+msgid "Group Id"
+msgstr ""
+
+#: /views/groups/manage_view.ctp:74
+#: /views/groups/view.ctp:74
+#: /views/users/index.ctp:67
+#: /views/users/manage_index.ctp:67
+#: /views/users/manage_view.ctp:72
+#: /views/users/view.ctp:72
+msgid "New User"
+msgstr ""
+
+#: /views/layouts/default.ctp:6
+msgid "Yahoo Answers"
+msgstr ""
+
+#: /views/questions/add.ctp:4
+#: /views/questions/manage_add.ctp:4
+msgid "Add Question"
+msgstr ""
+
+#: /views/questions/edit.ctp:4
+#: /views/questions/manage_edit.ctp:4
+msgid "Edit Question"
+msgstr ""
+
+#: /views/questions/index.ctp:2
+#: /views/questions/manage_index.ctp:2
+msgid "Questions"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:9
+#: /views/questions/view.ctp:9
+#: /views/tags/manage_view.ctp:27
+#: /views/tags/view.ctp:27
+#: /views/users/manage_view.ctp:181
+#: /views/users/view.ctp:181
+msgid "Title"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:29
+#: /views/questions/view.ctp:29
+#: /views/tags/manage_view.ctp:31
+#: /views/tags/view.ctp:31
+#: /views/users/manage_view.ctp:185
+#: /views/users/view.ctp:185
+msgid "Status"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:86
+#: /views/questions/view.ctp:86
+#: /views/users/manage_view.ctp:130
+#: /views/users/view.ctp:130
+msgid "Related Answers"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:127
+#: /views/questions/view.ctp:127
+#: /views/users/edit.ctp:31
+#: /views/users/index.ctp:73
+#: /views/users/manage_edit.ctp:31
+#: /views/users/manage_index.ctp:73
+#: /views/users/manage_view.ctp:78;171
+#: /views/users/view.ctp:78;171
+msgid "New Answer"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:132
+#: /views/questions/view.ctp:132
+#: /views/users/manage_view.ctp:220
+#: /views/users/view.ctp:220
+msgid "Related Watchlists"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:165
+#: /views/questions/view.ctp:165
+#: /views/users/edit.ctp:35
+#: /views/users/index.ctp:77
+#: /views/users/manage_edit.ctp:35
+#: /views/users/manage_index.ctp:77
+#: /views/users/manage_view.ctp:82;253
+#: /views/users/view.ctp:82;253
+msgid "New Watchlist"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:170
+#: /views/questions/view.ctp:170
+msgid "Related Tags"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:176
+#: /views/questions/view.ctp:176
+#: /views/tags/manage_view.ctp:14
+#: /views/tags/view.ctp:14
+msgid "Longname"
+msgstr ""
+
+#: /views/questions/manage_view.ctp:203
+#: /views/questions/view.ctp:203
+msgid "New Tag"
+msgstr ""
+
+#: /views/questions_tags/add.ctp:4
+#: /views/questions_tags/manage_add.ctp:4
+msgid "Add Questions Tag"
+msgstr ""
+
+#: /views/questions_tags/edit.ctp:4
+#: /views/questions_tags/manage_edit.ctp:4
+msgid "Edit Questions Tag"
+msgstr ""
+
+#: /views/questions_tags/index.ctp:2
+#: /views/questions_tags/manage_index.ctp:2
+msgid "Questions Tags"
+msgstr ""
+
+#: /views/questions_tags/manage_view.ctp:2
+#: /views/questions_tags/view.ctp:2
+msgid "Questions Tag"
+msgstr ""
+
+#: /views/questions_tags/manage_view.ctp:14
+#: /views/questions_tags/view.ctp:14
+#: /views/tags/manage_view.ctp:2
+#: /views/tags/view.ctp:2
+#: /views/users_tags/manage_view.ctp:9
+#: /views/users_tags/view.ctp:9
+msgid "Tag"
+msgstr ""
+
+#: /views/tags/add.ctp:4
+#: /views/tags/manage_add.ctp:4
+msgid "Add Tag"
+msgstr ""
+
+#: /views/tags/edit.ctp:4
+#: /views/tags/manage_edit.ctp:4
+msgid "Edit Tag"
+msgstr ""
+
+#: /views/tags/index.ctp:2
+#: /views/tags/manage_index.ctp:2
+msgid "Tags"
+msgstr ""
+
+#: /views/tags/manage_view.ctp:22
+#: /views/tags/view.ctp:22
+#: /views/users/manage_view.ctp:176
+#: /views/users/view.ctp:176
+msgid "Related Questions"
+msgstr ""
+
+#: /views/tags/manage_view.ctp:61
+#: /views/tags/view.ctp:61
+#: /views/users/edit.ctp:33
+#: /views/users/index.ctp:75
+#: /views/users/manage_edit.ctp:33
+#: /views/users/manage_index.ctp:75
+#: /views/users/manage_view.ctp:80;215
+#: /views/users/view.ctp:80;215
+msgid "New Question"
+msgstr ""
+
+#: /views/users/edit.ctp:4
+#: /views/users/manage_edit.ctp:4
+#: /views/users/manage_view.ctp:69
+#: /views/users/view.ctp:69
+msgid "Edit User"
+msgstr ""
+
+#: /views/users/edit.ctp:25
+#: /views/users/manage_edit.ctp:25
+#: /views/users/manage_view.ctp:71
+#: /views/users/view.ctp:71
+msgid "List Users"
+msgstr ""
+
+#: /views/users/edit.ctp:26
+#: /views/users/index.ctp:68
+#: /views/users/manage_edit.ctp:26
+#: /views/users/manage_index.ctp:68
+#: /views/users/manage_view.ctp:73
+#: /views/users/view.ctp:73
+msgid "List Groups"
+msgstr ""
+
+#: /views/users/edit.ctp:27
+#: /views/users/index.ctp:69
+#: /views/users/manage_edit.ctp:27
+#: /views/users/manage_index.ctp:69
+#: /views/users/manage_view.ctp:74
+#: /views/users/view.ctp:74
+msgid "New Group"
+msgstr ""
+
+#: /views/users/edit.ctp:28
+#: /views/users/index.ctp:70
+#: /views/users/manage_edit.ctp:28
+#: /views/users/manage_index.ctp:70
+#: /views/users/manage_view.ctp:75
+#: /views/users/view.ctp:75
+msgid "List Activities"
+msgstr ""
+
+#: /views/users/edit.ctp:30
+#: /views/users/index.ctp:72
+#: /views/users/manage_edit.ctp:30
+#: /views/users/manage_index.ctp:72
+#: /views/users/manage_view.ctp:77
+#: /views/users/view.ctp:77
+msgid "List Answers"
+msgstr ""
+
+#: /views/users/edit.ctp:32
+#: /views/users/index.ctp:74
+#: /views/users/manage_edit.ctp:32
+#: /views/users/manage_index.ctp:74
+#: /views/users/manage_view.ctp:79
+#: /views/users/view.ctp:79
+msgid "List Questions"
+msgstr ""
+
+#: /views/users/edit.ctp:34
+#: /views/users/index.ctp:76
+#: /views/users/manage_edit.ctp:34
+#: /views/users/manage_index.ctp:76
+#: /views/users/manage_view.ctp:81
+#: /views/users/view.ctp:81
+msgid "List Watchlists"
+msgstr ""
+
+#: /views/users/manage_view.ctp:54
+#: /views/users/view.ctp:54
+msgid "About"
+msgstr ""
+
+#: /views/users/manage_view.ctp:59
+#: /views/users/view.ctp:59
+msgid "Avatar"
+msgstr ""
+
+#: /views/users/manage_view.ctp:70
+#: /views/users/view.ctp:70
+msgid "Delete User"
+msgstr ""
+
+#: /views/users_tags/add.ctp:4
+#: /views/users_tags/manage_add.ctp:4
+msgid "Add Users Tag"
+msgstr ""
+
+#: /views/users_tags/edit.ctp:4
+#: /views/users_tags/manage_edit.ctp:4
+msgid "Edit Users Tag"
+msgstr ""
+
+#: /views/users_tags/index.ctp:2
+#: /views/users_tags/manage_index.ctp:2
+msgid "Users Tags"
+msgstr ""
+
+#: /views/users_tags/manage_view.ctp:2
+#: /views/users_tags/view.ctp:2
+msgid "Users Tag"
+msgstr ""
+
+#: /views/watchlists/add.ctp:4
+#: /views/watchlists/manage_add.ctp:4
+msgid "Add Watchlist"
+msgstr ""
+
+#: /views/watchlists/edit.ctp:4
+#: /views/watchlists/manage_edit.ctp:4
+msgid "Edit Watchlist"
+msgstr ""
+
+#: /views/watchlists/index.ctp:2
+#: /views/watchlists/manage_index.ctp:2
+msgid "Watchlists"
+msgstr ""
+
+#: /views/watchlists/manage_view.ctp:2
+#: /views/watchlists/view.ctp:2
+msgid "Watchlist"
+msgstr ""
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
