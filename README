@@ -15,10 +15,9 @@ To summarize, below is a brief list of features available as of now (not all may
 >> Questions comments
 >> Answers comments
 
-As mentioned above, the most of the base work is done and the script is not ready for production use by any means. For example, though voting is available but there is no check for stopping user from voting multiple times on same question/answer. 
+As mentioned above, though most of the base work is done, the script is not ready for production use by any means. For example, though voting is available but there is no check for stopping user from voting multiple times on same question/answer. 
 
 We will try to continue working on the project. You are free to use the code.
-
 
 INSTALLATION
 ============
