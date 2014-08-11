@@ -7,23 +7,23 @@
 
 class FacebookTest extends PHPUnit_Framework_TestCase
 {
-  const APP_ID = '117743971608120';
-  const SECRET = '943716006e74d9b9283d4d5d8ab93204';
+  const APP_ID = '';
+  const SECRET = '';
 
-  const MIGRATED_APP_ID = '148931871805121';
-  const MIGRATED_SECRET = 'bb9b2bb536647ed3b92c1c9a8969ef7c';
+  const MIGRATED_APP_ID = '';
+  const MIGRATED_SECRET = '';
 
   private static $VALID_EXPIRED_SESSION = array(
-    'access_token' => '117743971608120|2.vdCKd4ZIEJlHwwtrkilgKQ__.86400.1281049200-1677846385|NF_2DDNxFBznj2CuwiwabHhTAHc.',
+    'access_token' => '',
     'expires'      => '1281049200',
-    'secret'       => 'u0QiRGAwaPCyQ7JE_hiz1w__',
-    'session_key'  => '2.vdCKd4ZIEJlHwwtrkilgKQ__.86400.1281049200-1677846385',
-    'sig'          => '7a9b063de0bef334637832166948dcad',
-    'uid'          => '1677846385',
+    'secret'       => '',
+    'session_key'  => '',
+    'sig'          => '',
+    'uid'          => '',
   );
 
-  private static $VALID_SIGNED_REQUEST = '1sxR88U4SW9m6QnSxwCEw_CObqsllXhnpP5j2pxD97c.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImV4cGlyZXMiOjEyODEwNTI4MDAsIm9hdXRoX3Rva2VuIjoiMTE3NzQzOTcxNjA4MTIwfDIuVlNUUWpub3hYVVNYd1RzcDB1U2g5d19fLjg2NDAwLjEyODEwNTI4MDAtMTY3Nzg0NjM4NXx4NURORHBtcy1nMUM0dUJHQVYzSVdRX2pYV0kuIiwidXNlcl9pZCI6IjE2Nzc4NDYzODUifQ';
-  private static $NON_TOSSED_SIGNED_REQUEST = 'c0Ih6vYvauDwncv0n0pndr0hP0mvZaJPQDPt6Z43O0k.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiJ9';
+  private static $VALID_SIGNED_REQUEST = '';
+  private static $NON_TOSSED_SIGNED_REQUEST = '';
 
   public function testConstructor() {
     $facebook = new Facebook(array(
